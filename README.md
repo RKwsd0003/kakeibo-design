@@ -1,1 +1,1 @@
-# kakeibo-design
+# kakeibo-app
